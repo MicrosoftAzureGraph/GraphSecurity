@@ -1,4 +1,4 @@
-<center><img src="https://i.postimg.cc/dtYn9jhr/graphapilogo-1.png"></center>
+<center><img src="https://i.postimg.cc/dtYn9jhr/graphapilogo-1.png" height="150" width="280"></center>
 <h1>Microsoft Azure Graph Security</h1><br>
 
 This repository provides resources, examples, and documentation for utilizing Microsoft Azure Graph Security services.
