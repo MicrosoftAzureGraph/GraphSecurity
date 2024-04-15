@@ -10,7 +10,7 @@ Microsoft Azure Graph Security offers a unified API to connect with security dat
 <b>Unified API:</b> Access security data from various sources through a single API.<br>
 <b>Threat Detection:</b> Detect and respond to threats in real-time.<br>
 <b>Security Insights:</b> Gain actionable insights to improve security posture.<br>
-Integration: Seamlessly integrate with Microsoft and partner security solutions.<br><br>
+<b>Integration:</b> Seamlessly integrate with Microsoft and partner security solutions.<br><br>
 <h3>Getting Started</h3>
 <u>To start using Microsoft Azure Graph Security, follow these steps:</u>
 
